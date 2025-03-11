@@ -42,7 +42,7 @@ form.addEventListener(('submit'),(e)=>{
 const sendData=(sRate,count)=>{
   if(sRate===count){
    swal("Success!!","you are login","success");
-    location.href="/JEE(Main).html";
+    location.href="https://examinationservices.nic.in/examsys25/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFYsjZOdyj8DuPcxGBqAK2DwqFCalp/sPjeNMpmZAoiTR";
   }/*else{
     swal("Error","your scorecard is not generated","error");
   }*/
